@@ -5,6 +5,9 @@ Informationen zur Befragung sind im Projektbericht «Mittagessen auf dem Campus:
 Die Datenbearbeitung wird im Projektbericht «Mittagessen auf dem Campus: Dokumentation der Daten aus der Gästebefragung»  (DOI: 10.21256/zhaw-1410) genauer beschrieben.
 Der Rohdatensatz und bearbeitete Datensätze sind auf Zenodo verfügbar (10.5281/zenodo.3554884). Zur Sicherstellung der Anonymität der Befragungsteilnehmer unterscheiden sich diese veröffentlichten Daten von den erhobenen und für die Auswertung benutzten Daten leicht (vgl. 10.5281/zenodo.3554884). Aufgrund dieser Anpassungen unterscheiden sich die Ergebnisse der deskriptiven und explorativen Auswertungen, die mit den anonymisierten Daten durchgeführt werden, im Promillebereich von den Ergebnissen in den Projektberichten «Mittagessen auf dem Campus: Fleisch oder Vegi? Befragung zur Bedeutung von Angebot, Essensgewohnheiten, Vorlieben und Einstellungen für die Wahl des Mittagessens. Teil 1: Ergebnisse und Schlussfolgerungen» (DOI: 10.21256/zhaw-1406) und «Mittagessen auf dem Campus: Fleisch oder Vegi? Befragung zur Bedeutung von Angebot, Essensgewohnheiten, Vorlieben und Einstellungen für die Wahl des Mittagessens. Teil 2: Methodik und Analysen» (DOI: 10.21256/zhaw-1407). 
 
+[![DOI](https://zenodo.org/badge/255553273.svg)](https://zenodo.org/badge/latestdoi/255553273)
+
+
 ## Veröffentlichte Skripts mit Kurzbeschreibung:
 
 #### 01_clean_recode_vori_anonym.R
@@ -77,3 +80,4 @@ Explorative Analyse zwischen acht Gruppen in Abhängigkeit ihres Geschlechts und
 Explorative Analyse zwischen zwei Gruppen in Abhängigkeit der Experimentwoche:
 - Befragte, die in der Basiswochebefragt wurden
 - Befragte, die in der Investionswochebefragt wurden
+
